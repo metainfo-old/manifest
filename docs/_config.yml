@@ -2,7 +2,7 @@ title: "Manifest"
 description: ""
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag
